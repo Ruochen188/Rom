@@ -1,0 +1,10 @@
+name: Rom
+version: 1.0.0[测试版]
+author: mo_li
+api: [4.0.0,3.0.0]
+load: POSTWORLD
+main: Rom\rpg
+command:
+ rom:
+  description: RPG插件主命令
+  
